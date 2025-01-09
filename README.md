@@ -1,5 +1,9 @@
 # Doctors on Dial - #1 Best Blockchain Hack @ JamHacks 2024
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/86e9696f-2e88-4748-b9f2-7ac604917481" alt="JamHacks" width="600"/>
+</div>
+
 ## Inspiration
 With the growing popularity of web3 and decentralized apps, as well as growing awareness of possibilities for increased security, we decided to make an App for medical scans. Although there may be ways for patients to retrieve their medical imaging and diagnoses, current methodology uses email, fax, or phone call, all of which could be more secure.
 
